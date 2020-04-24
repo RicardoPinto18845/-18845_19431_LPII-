@@ -1,0 +1,5 @@
+C:\Users\Ricardo\source\repos\ClassLibraryPessoa\bin\Debug\ClassLibraryPessoa.dll
+C:\Users\Ricardo\source\repos\ClassLibraryPessoa\bin\Debug\ClassLibraryPessoa.pdb
+C:\Users\Ricardo\source\repos\ClassLibraryPessoa\obj\Debug\ClassLibraryPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\ClassLibraryPessoa\obj\Debug\ClassLibraryPessoa.dll
+C:\Users\Ricardo\source\repos\ClassLibraryPessoa\obj\Debug\ClassLibraryPessoa.pdb
